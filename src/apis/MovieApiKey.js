@@ -1,1 +1,1 @@
-export const Apikey = "<api Apikey";
+export const Apikey = "<your Apikey";
