@@ -5,7 +5,7 @@
   display: flex;
   font-weight: 400;
   justify-content: space-evenly;
-  padding: 40px 0px;
+  padding: 10px 0px;
 
   .movie-rating {
     color: $font-secondary;
@@ -29,15 +29,34 @@
     line-height: 1.8rem;
 }
 
-.movie-info > div span:first > child {
+.movie-info {
+   .head{
     padding: 10px 0px;
     color: $font-primary;
     font-weight: 600;
     width: 100px;
     display: inline-block;
+   }
 
 }
 
 .movie-info > div span{
     color: $font-secondary;
+}
+
+.fa-star{
+    color: #ff9e00;
+}
+.fa-thumbs-up{
+    color: #fafafa;
+}
+.fa-film{
+    color: rgba(191, 213, 214);
+}
+.fa-calender{
+    color: peachpuff;
+}
+
+.section-right{
+    margin-left: 30px;
 }

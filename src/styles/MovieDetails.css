@@ -3,7 +3,7 @@
   display: flex;
   font-weight: 400;
   justify-content: space-evenly;
-  padding: 40px 0px;
+  padding: 10px 0px;
 }
 .movie-section .movie-rating {
   color: #79b8f3;
@@ -25,7 +25,7 @@
   line-height: 1.8rem;
 }
 
-.movie-info > div span:first > child {
+.movie-info .head {
   padding: 10px 0px;
   color: #ffffff;
   font-weight: 600;
@@ -35,4 +35,24 @@
 
 .movie-info > div span {
   color: #79b8f3;
+}
+
+.fa-star {
+  color: #ff9e00;
+}
+
+.fa-thumbs-up {
+  color: #fafafa;
+}
+
+.fa-film {
+  color: rgb(191, 213, 214);
+}
+
+.fa-calender {
+  color: peachpuff;
+}
+
+.section-right {
+  margin-left: 30px;
 }/*# sourceMappingURL=MovieDetails.css.map */
