@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"MovieDetails.css"}
+{"version":3,"sources":["MovieDetails.scss","MovieDetails.css","colors.scss"],"names":[],"mappings":"AAEA;EACE,cAAA;EACA,aAAA;EACA,gBAAA;EACA,6BAAA;EACA,iBAAA;ACDF;ADGE;EACE,cENa;EFOb,aAAA;EACA,gBAAA;EACA,iBAAA;ACDJ;ADGI;EACI,kBAAA;ACDR;;ADMA;EACI,eAAA;EACA,cEpBW;ADiBf;;ADMA;EACI,gBAAA;EACA,mBAAA;ACHJ;;ADMA;EACI,iBAAA;EACA,cE9BW;EF+BX,gBAAA;EACA,YAAA;EACA,qBAAA;ACHJ;;ADOA;EACI,cErCa;ADiCjB","file":"MovieDetails.css"}

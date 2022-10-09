@@ -1,1 +1,38 @@
-/*# sourceMappingURL=MovieDetails.css.map */
+.movie-section {
+  color: #ffffff;
+  display: flex;
+  font-weight: 400;
+  justify-content: space-evenly;
+  padding: 40px 0px;
+}
+.movie-section .movie-rating {
+  color: #79b8f3;
+  display: flex;
+  margin-top: 20px;
+  padding-left: 3px;
+}
+.movie-section .movie-rating span {
+  margin-right: 20px;
+}
+
+.movie-title {
+  font-size: 40px;
+  color: #ffffff;
+}
+
+.movie-plot {
+  margin-top: 20px;
+  line-height: 1.8rem;
+}
+
+.movie-info > div span:first > child {
+  padding: 10px 0px;
+  color: #ffffff;
+  font-weight: 600;
+  width: 100px;
+  display: inline-block;
+}
+
+.movie-info > div span {
+  color: #79b8f3;
+}/*# sourceMappingURL=MovieDetails.css.map */
